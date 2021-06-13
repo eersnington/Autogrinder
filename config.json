@@ -5,7 +5,7 @@
   "mcpass" : "",
   "auth" : "mojang",
   "password" : "sree1975",
-  "bot_prefix" : "=",
+  "bot_prefix" : "+",
   "join_command": "server opfactions",
   "whitelist" : ["SayNo2Toxicity", "DeathBoy", "JaySN", "X_Jos", "GucciZmaj", "python822072Java"]
 }
