@@ -88,7 +88,7 @@ function grinder(){
 }
 
 bot.on("message", message =>{
-  console.log(message)
+  console.log(`${message}`)
   if (sudo_regex.test(`${message}`)){
     bot.chat((String(message).split(`: ${prefix}sudo `))[1])
 
