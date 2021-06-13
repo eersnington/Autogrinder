@@ -1,0 +1,17 @@
+{
+  "name": "autogrinder",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Sreenington/Minecraft-Discord-Bot)",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^3.2.0",
+    "chalk": "^4.1.1",
+    "mineflayer": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
